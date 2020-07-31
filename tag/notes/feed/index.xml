@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>notes &#8211; Biz Inc Poultry</title>
+	<atom:link href="/tag/notes/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Loyal To Quality.</description>
+	<lastBuildDate>Mon, 01 Oct 2018 07:02:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/10/cropped-favicon-150x150.jpg</url>
+	<title>notes &#8211; Biz Inc Poultry</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Reading Work Notes</title>
+		<link>/2018/10/01/reading-work-notes/</link>
+					<comments>/2018/10/01/reading-work-notes/#respond</comments>
+		
+		<dc:creator><![CDATA[melusi]]></dc:creator>
+		<pubDate>Mon, 01 Oct 2018 07:02:16 +0000</pubDate>
+				<category><![CDATA[Process]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[reading]]></category>
+		<guid isPermaLink="false">http://demo.theme-junkie.com/landed/?p=21</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie molestie nisl, eu scelerisque turpis tempus at. Nam luctus ultrices imperdiet.Class aptent taciti sociosqu ad litora torquent per&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie molestie nisl, eu scelerisque turpis tempus at. Nam luctus ultrices imperdiet.Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+<p>Suspendisse velit orci, pretium ut feugiat nec, lobortis et est. Nullam cursus ultrices tincidunt. Nam gravida sem gravida ipsum <a href="https://www.theme-junkie.com/">dignissim</a> in dictum urna accumsan. Nullam nec augue magna, sed scelerisque odio. Cras adipiscing feugiat venenatis. Praesent gravida consequat purus sed lobortis. Aenean et eros nunc.</p>
+<p>Nam ultricies aliquam imperdiet. Pellentesque massa dui, varius non sodales quis, placerat ullamcorper nisl. <strong>Donec pulvinar,</strong> arcu vel rhoncus commodo, neque lectus blandit elit, vel iaculis odio lectus sit amet metus. Curabitur sodales semper eros et vulputate. Ut et sem ipsum. Nam elementum neque sem. Fusce fringilla ante id augue sodales venenatis. Nunc eu ipsum enim.</p>
+<ul>
+<li>Bibendum in cursus venenatis</li>
+<li>Ultricies consectetur purus</li>
+<li>Integer imperdiet lectus vitae</li>
+</ul>
+<p>Nunc odio odio, faucibus non porta a, venenatis non mauris. Nam non tortor est. Nullam lacinia, augue quis luctus ullamcorper, sem urna bibendum erat, sed viverra tortor velit sed quam. Sed adipiscing leo a odio condimentum in placerat ipsum bibendum.</p>
+<p>Nam pretium, sem iaculis ullamcorper mattis, sem lacus commodo dui, vel ultrices libero nisl et massa. Sed tristique bibendum arcu, dapibus eleifend justo aliquet eu. Fusce sed blandit lorem. Phasellus blandit posuere nulla quis aliquam. In vel ante vitae neque aliquet hendrerit a non velit.</p>
+<blockquote><p>In hac habitasse platea dictumst. Integer ac ante enim, in imperdiet justo. Sed justo mi, convallis et lobortis a, venenatis at odio. Vivamus porttitor dolor eget felis pretium luctus. Sed nec dui id augue blandit accumsan vel et lorem.</p></blockquote>
+<p>Quisque eros purus, sagittis sit amet consectetur eu, scelerisque a purus. Pellentesque sollicitudin velit eu velit fringilla sollicitudin. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent id aliquam magna.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/10/01/reading-work-notes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
